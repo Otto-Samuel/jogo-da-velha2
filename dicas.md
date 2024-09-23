@@ -1,4 +1,5 @@
-se acontecer erro de não ter a biblioteca _**curses**_, execute no BASH:
+se acontecer erro de não ter a biblioteca _**curses**_, execute no BASH:
+
      pip install windows-curses
 
 
